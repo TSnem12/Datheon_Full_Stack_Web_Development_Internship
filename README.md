@@ -4,10 +4,10 @@ Submission by **Tasneem Mohamed**, Backend Developer.
 
 ## Completed Tasks
 
-| # | Task | Folder | Live demo |
-|---|------|--------|-----------|
-| 1 | Developer Portfolio | [task-1-portfolio](./task-1-portfolio) | https://tsnem12.github.io/portfolio/ |
-| 3 | Weather Forecast App | [task-3-weather](./task-3-weather) | https://tsnem12.github.io/weather-forecast-app/ |
+| # | Task | Code | Live demo |
+|---|------|------|-----------|
+| 1 | Developer Portfolio | [task-1-portfolio](https://github.com/TSnem12/Datheon_Full_Stack_Web_Development_Internship/tree/main/task-1-portfolio) | https://tsnem12.github.io/portfolio/ |
+| 3 | Weather Forecast App | [task-3-weather](https://github.com/TSnem12/Datheon_Full_Stack_Web_Development_Internship/tree/main/task-3-weather) | https://tsnem12.github.io/weather-forecast-app/ |
 
 ## Tech Stack
 
